@@ -443,7 +443,7 @@ function Hero() {
             {/* Resume */}
 
             <a
-              href="/resume.pdf"
+              href="../src/assets/pradeesh_resume.pdf"
               className="
                 group
                 flex
