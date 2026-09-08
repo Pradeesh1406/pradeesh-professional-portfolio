@@ -305,6 +305,7 @@ function Navbar({ darkMode, setDarkMode }) {
                   flex
                   h-10
                   w-10
+                  cursor-pointer
                   items-center
                   justify-center
                   rounded-full
