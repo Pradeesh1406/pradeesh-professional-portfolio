@@ -353,7 +353,7 @@ function Navbar({ darkMode, setDarkMode }) {
                   dark:hover:text-[#101018]
                 "
               >
-                Let's talk
+                Hire Me
               </a>
 
 
