@@ -442,43 +442,43 @@ function Hero() {
 
             {/* Resume */}
 
-            <a
-              href="/pradeesh_resume.pdf"
-              className="
-                group
-                flex
-                items-center
-                gap-2.5
-                rounded-full
-                border
-                border-black/15
-                px-4
-                py-2.5
-                text-[10px]
-                font-medium
-                transition-all
-                duration-300
-                hover:border-[#9BAE3C]
-                hover:text-[#68751F]
-                sm:px-5
-                sm:py-3
-                sm:text-xs
-                dark:border-white/15
-                dark:hover:border-[#e1fa6b]
-                dark:hover:text-[#e1fa6b]
-              "
-            >
-              Download CV
+           <a
+  href="/pradeesh_resume.pdf"
+  download="Pradeesh_Resume.pdf"
+  className="
+    group
+    flex
+    items-center
+    gap-2.5
+    rounded-full
+    border
+    border-black/15
+    px-4
+    py-2.5
+    text-[10px]
+    font-medium
+    transition-all
+    duration-300
+    hover:border-[#9BAE3C]
+    hover:text-[#68751F]
+    sm:px-5
+    sm:py-3
+    sm:text-xs
+    dark:border-white/15
+    dark:hover:border-[#e1fa6b]
+    dark:hover:text-[#e1fa6b]
+  "
+>
+  Download CV
 
-              <Download
-                size={13}
-                className="
-                  transition-transform
-                  group-hover:translate-y-0.5
-                "
-              />
-
-            </a>
+  <Download
+    size={13}
+    className="
+      transition-transform
+      group-hover:translate-y-0.5
+    "
+  />
+</a>
 
           </div>
 
