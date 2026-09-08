@@ -76,7 +76,7 @@ function Contact() {
 
          {/* Mobile */}
 <a
-  href="tel:+919876543210"
+  href="tel:+919626020986"
   className="group rounded-2xl border border-zinc-200 bg-white p-7 transition-all duration-300 hover:-translate-y-1 hover:border-[#e1fa6b] dark:border-white/10 dark:bg-white/[0.03]"
 >
   <p className="text-xs uppercase tracking-widest text-zinc-400 dark:text-white/30">
