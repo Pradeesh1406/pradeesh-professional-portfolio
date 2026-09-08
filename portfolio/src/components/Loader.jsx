@@ -4,7 +4,7 @@ function Loader({ onComplete }) {
   const [progress, setProgress] = useState(0)
 
   useEffect(() => {
-    const duration = 2000
+    const duration = 2500
     const intervalTime = 20
     const increment = 100 / (duration / intervalTime)
 
@@ -96,7 +96,7 @@ function Loader({ onComplete }) {
           </span>
 
           <span className="text-[9px] uppercase tracking-[0.2em] text-black/30 dark:text-white/30">
-            Loading experience
+            Preparing portfolio
           </span>
         </div>
 
