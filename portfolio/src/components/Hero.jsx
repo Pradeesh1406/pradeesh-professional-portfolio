@@ -139,7 +139,7 @@ function Hero() {
               dark:text-[#858590]
             "
           >
-            Software Engineer
+            Software Developer
           </span>
 
         </div>
