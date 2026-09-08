@@ -97,7 +97,7 @@ function Contact() {
         {/* Resume */}
         <div className="mt-10">
           <a
-            href="../src/assets/pradeesh_resume.pdf"
+            href="/pradeesh_resume.pdf"
             download
             className="inline-flex items-center gap-3 rounded-full bg-zinc-900 px-7 py-3.5 text-sm font-semibold text-white transition-all duration-300 hover:-translate-y-1 hover:bg-[#e1fa6b] hover:text-zinc-900 dark:bg-white dark:text-zinc-900 dark:hover:bg-[#e1fa6b]"
           >
